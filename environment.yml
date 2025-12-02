@@ -1,0 +1,14 @@
+name: anti-holographic-universe
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - pip:
+    - quimb>=1.4.0
+    - tqdm>=4.65.0
+    - numpy>=1.23.0
+    - matplotlib>=3.6.0
+    - scipy>=1.10.0
+    - jupyter>=1.0.0

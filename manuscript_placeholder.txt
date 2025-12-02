@@ -1,0 +1,9 @@
+This is a placeholder for the manuscript PDF.
+
+The actual manuscript "The Anti-holographic Entangled Universe" (Ringler 2025)
+should be placed here as "manuscript.pdf" or "Anti.pdf".
+
+DOI: 10.5281/zenodo.13898868
+URL: https://doi.org/10.5281/zenodo.13898868
+
+This placeholder file serves as a reference point. Please replace with the actual PDF.
