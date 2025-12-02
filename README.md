@@ -14,7 +14,7 @@ This repository provides the complete computational implementation and numerical
 
 | File/Directory | Description |
 |----------------|-------------|
-| `manuscript.pdf` (or `Anti.pdf`) | The complete manuscript: "The Anti-holographic Entangled Universe" [[Download from Zenodo](https://doi.org/10.5281/zenodo.13898868)] |
+| `manuscript.pdf` (or `Anti.pdf`) | The complete manuscript: "The Anti-holographic Entangled Universe" [[Download from Zenodo](https://doi.org/10.5281/zenodo.17788435) |
 | `fig1_alpha_0.85.ipynb` | Jupyter notebook reproducing Figure 1 (α ≈ 0.85) |
 | `section_v_alpha_0.82.ipynb` | Jupyter notebook reproducing Section V numerical verification (α ≈ 0.82) |
 | `data/` | Data directory for storing computational results |
@@ -23,10 +23,7 @@ This repository provides the complete computational implementation and numerical
 | `environment.yml` | Conda environment specification |
 | `LICENSE` | MIT License |
 
-> **Note**: The manuscript PDF can be downloaded directly from Zenodo: [10.5281/zenodo.13898868](https://doi.org/10.5281/zenodo.13898868)
-
-## Quick Start
-
+> **Note**: The manuscript PDF can be downloaded directly from Zenodo: [10.5281/zenodo.13898868](https://doi.org/10.5281/zenodo.17788435)
 ### Installation
 
 Install the required dependencies using pip:
@@ -147,7 +144,7 @@ This work utilizes the QuimB library for quantum tensor network computations. We
 
 ## References
 
-1. Ringler, R. (2025). *The Anti-holographic Entangled Universe*. DOI: [10.5281/zenodo.13898868](https://doi.org/10.5281/zenodo.13898868)
+1. Ringler, R. (2025). *The Anti-holographic Entangled Universe*. DOI: [10.5281/zenodo.13898868](https://doi.org/10.5281/zenodo.17788435)
 2. Gray, J. (2018). quimb: A python library for quantum information and many-body calculations. *Journal of Open Source Software*, 3(29), 819.
 
 ## Contact
@@ -161,7 +158,7 @@ For questions, issues, or contributions, please open an issue on the GitHub repo
 
 Independent numerical confirmation of Robert Ringler's framework (October 22, 2025).
 
-- **DOI**: [to be added after Zenodo]
+[![DOI](https://zenodo.org/badge/1108294505.svg)](https://doi.org/10.5281/zenodo.17788435)
 - **Manuscript PDF**: [upload your Anti.pdf here]
 
 ## Notebooks
