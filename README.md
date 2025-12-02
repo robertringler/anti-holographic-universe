@@ -14,7 +14,7 @@ This repository provides the complete computational implementation and numerical
 
 | File/Directory | Description |
 |----------------|-------------|
-| `manuscript.pdf` (or `Anti.pdf`) | The complete manuscript: "The Anti-holographic Entangled Universe" |
+| `manuscript.pdf` (or `Anti.pdf`) | The complete manuscript: "The Anti-holographic Entangled Universe" [[Download from Zenodo](https://doi.org/10.5281/zenodo.13898868)] |
 | `fig1_alpha_0.85.ipynb` | Jupyter notebook reproducing Figure 1 (α ≈ 0.85) |
 | `section_v_alpha_0.82.ipynb` | Jupyter notebook reproducing Section V numerical verification (α ≈ 0.82) |
 | `data/` | Data directory for storing computational results |
@@ -22,6 +22,8 @@ This repository provides the complete computational implementation and numerical
 | `requirements.txt` | Python package dependencies |
 | `environment.yml` | Conda environment specification |
 | `LICENSE` | MIT License |
+
+> **Note**: The manuscript PDF can be downloaded directly from Zenodo: [10.5281/zenodo.13898868](https://doi.org/10.5281/zenodo.13898868)
 
 ## Quick Start
 
